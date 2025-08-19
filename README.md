@@ -21,7 +21,7 @@ I focus on **building intelligent systems** that drive real-world impact and con
 ✨ *“Great systems are built not only with code, but with vision, collaboration, and persistence.”*
 
 - 🔥 Skilled in **Python, ML/DL, DSA, SQL**
-- 🧠 Research Areas: **Healthcare AI (Parkinson’s Detection), Cybersecurity IDS, Federated Learning**
+- 🧠 Research Areas: **Healthcare AI, Cybersecurity , Federated Learning**
 - 🤝 Strong leadership, teamwork & problem-solving mindset
 - 🎯 Goal: Bridge **academic research** and **practical applications**
 
@@ -54,14 +54,10 @@ I focus on **building intelligent systems** that drive real-world impact and con
 
 ## 🚀 Featured Projects
 
-- 🧠 **AI for Healthcare** – Parkinson’s disease detection using ML & DL models  
-  👉 Repo: https://github.com/BappaSahaShuvo/Parkinson-Detection
-
-- 📱 **Messaging App** – Cross-platform secure communication system  
-  👉 Repo: https://github.com/BappaSahaShuvo/MessagingApp
-
-- 🐍 **Python Mini Projects** – Problem solving, algorithms & automation  
-  👉 Repo: https://github.com/BappaSahaShuvo/Python-Projects
+- 🧠 **AI for Healthcare** 
+- 📱 **Messaging App** – 
+- 🐍 **Python  Projects** – Problem solving, algorithms & automation  
+  
 
 
 
