@@ -109,9 +109,6 @@ I focus on **building intelligent systems** that drive real-world impact and con
   <a href="https://scholar.google.com/citations?user=<your-id>">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/raj.suvo.501">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 </p>
 
 ---
