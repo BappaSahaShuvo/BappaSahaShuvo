@@ -103,7 +103,7 @@ I focus on **building intelligent systems** that drive real-world impact and con
   <a href="https://github.com/BappaSahaShuvo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/<your-kaggle-username>">
+  <a href="https://kaggle.com/<bappasahashuvo>">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=<your-id>">
