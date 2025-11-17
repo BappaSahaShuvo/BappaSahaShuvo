@@ -15,13 +15,13 @@
 
 ## 🌟 About Me
 
-I am a **Computer Science undergraduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Cybersecurity**.  
-I focus on **building intelligent systems** that drive real-world impact and contribute to **research for Q1-ranked journals**.
+I am a **Computer Science undergraduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Cybersecurity**, and **Modern Web Technologies**.  
+I focus on **building intelligent systems** that create real-world impact and contribute to **research for Q1-ranked journals**.
 
 ✨ *“Great systems are built not only with code, but with vision, collaboration, and persistence.”*
 
 - 🔥 Skilled in **Python, ML/DL, DSA, SQL**
-- 🧠 Research Areas: **Healthcare AI, Cybersecurity , Federated Learning**
+- 🧠 Research Areas: **Healthcare AI, Cybersecurity, Federated Learning**
 - 🤝 Strong leadership, teamwork & problem-solving mindset
 - 🎯 Goal: Bridge **academic research** and **practical applications**
 
@@ -37,7 +37,15 @@ I focus on **building intelligent systems** that drive real-world impact and con
   <img src="https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <!-- Frameworks -->
+  <!-- Web & Backend -->
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0275d8?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
+
+  <!-- ML/DL Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -54,17 +62,14 @@ I focus on **building intelligent systems** that drive real-world impact and con
 
 ## 🚀 Featured Projects
 
-- 🧠 **AI for Healthcare** 
-- 📱 **Messaging App** – 
-- 🐍 **Python  Projects** – Problem solving, algorithms & automation  
-  
-
-
+- 🧠 **AI for Healthcare** – ML/DL-based disease prediction & analysis  
+- 🔒 **Intrusion Detection System** – Transformers + Federated Learning (CSE-CIC-IDS2018)  
+- 📱 **Messaging App** – Secure messaging system  
+- 🐍 **Python Projects** – Algorithms, automation, scripting  
 
 ---
 
 ## 📚 Publications
-
 > 📝 *Some works are Coming soon.*
 
 ---
@@ -97,15 +102,23 @@ I focus on **building intelligent systems** that drive real-world impact and con
   <a href="https://www.linkedin.com/in/bappa-saha-47b14933a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:bappasahacse0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/BappaSahaShuvo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://kaggle.com/bappasahashuvo">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+
+  <a href="https://bappasahashuvo.github.io/Bappa-Saha/">
+    <img src="https://img.shields.io/badge/Portfolio-ff6600?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <a href="https://scholar.google.com/citations?user=<your-id>">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
