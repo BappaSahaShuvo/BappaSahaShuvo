@@ -46,7 +46,7 @@ I focus on **building intelligent systems** that create real-world impact and co
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-0275d8?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWL-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
+
 
   <!-- ML/DL Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
