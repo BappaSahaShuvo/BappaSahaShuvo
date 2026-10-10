@@ -15,16 +15,18 @@
 
 ## 🌟 About Me
 
-I am a **Computer Science undergraduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Cybersecurity**, and **Modern Web Technologies**.  
-I focus on **building intelligent systems** that create real-world impact and contribute to **research for Q1-ranked journals**.
+I am a **Computer Science and Engineering graduate** with **1 year of professional experience** in software development, specializing in **Odoo ERP, Python, Artificial Intelligence, and Machine Learning**.
+
+I am passionate about building **scalable enterprise solutions, intelligent systems, and AI-driven applications** that solve real-world problems. Alongside software engineering, I am committed to advancing research in **Healthcare AI, Cybersecurity, and Federated Learning**, with a long-term goal of contributing to **Q1-ranked research journals**.
 
 ✨ *“Great systems are built not only with code, but with vision, collaboration, and persistence.”*
 
-- 🔥 Skilled in **Python, ML/DL, DSA, SQL**
-- 🧠 Research Areas: **Healthcare AI, Cybersecurity, Federated Learning**
-- 🤝 Strong leadership, teamwork & problem-solving mindset
-- 🎯 Goal: Bridge **academic research** with **practical applications**
-
+- 🚀 **Core Skills:** Python, Odoo ERP, ORM, REST APIs, SQL, DSA
+- 🤖 **AI & ML:** Machine Learning, Deep Learning, Intelligent Systems
+- 🔬 **Research Interests:** Healthcare AI, Cybersecurity, Federated Learning
+- 💻 **Engineering Focus:** ERP Customization, Backend Development, AI-Driven Solutions
+- 🤝 **Strengths:** Problem-Solving, Collaboration, Leadership, Continuous Learning
+- 🎯 **Mission:** Bridge **software engineering, AI innovation, and academic research** to create meaningful real-world impact.
 ---
 
 ## 🛠️ Skills & Tools
